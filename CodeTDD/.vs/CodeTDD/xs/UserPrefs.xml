@@ -3,19 +3,12 @@
     <Files>
       <File FileName="CodeTDD/Program.cs" Line="20" Column="1" />
       <File FileName="CodeTDD/NumberSum.cs" Line="22" Column="43" />
-      <File FileName="UnitTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="UnitTest/UnitTest1.cs" Line="7" Column="50" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CodeTDD" expanded="True">
-            <Node name="CodeTDD" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
-            <Node name="UnitTest" expanded="True">
-              <Node name="UnitTest1.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="CodeTDD" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -24,7 +17,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CodeTDD PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.UnitTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

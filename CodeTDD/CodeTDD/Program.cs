@@ -13,7 +13,7 @@ namespace CodeTDD
             int[] nums = new int[] { 3, 3 };
             int tarket = 6;
             var resutl = numberSum.TwoSum(nums, tarket);
-            Console.ReadLine();
+            _ = Console.ReadLine();
         }
     }
 }
